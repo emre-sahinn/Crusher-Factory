@@ -1,2 +1,2 @@
-applicationId=207099881
+applicationId=  //Startapp id
 returnAds=true
